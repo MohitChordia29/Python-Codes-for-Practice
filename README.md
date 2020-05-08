@@ -1,2 +1,3 @@
-# Python-Codes-for-Practice-01
+# Python-Codes-for-Practice
 Simple Python Codes for Practice with Solutions
+Python Programming Examples on Mathematical Functions
